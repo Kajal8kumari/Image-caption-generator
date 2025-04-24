@@ -25,11 +25,13 @@ PIL (Python Imaging Library)
 Flickr8k Dataset: A collection of 8000 images each with five different captions.
 
 dataset:
-https://drive.google.com/file/d/1u3oqx36XApnAykFDB6EEWUIfd_CxRQQ9/view
-https://drive.google.com/file/d/1qcRy3WpQv4dGtu65gETtYLWxDPBrRtx1/view 
+[dataset(images)](https://drive.google.com/drive/folders/1WnOtltAkIOHzr02n2SSOZROU25s_01b5?usp=sharing)
+[dataset(text)](https://drive.google.com/drive/folders/1Y8e_OwO8NF0V-xqUksr6KNrWH7xHztvK?usp=sharing)
+
+
 
 AUTHOR :
-KAJAL KUMARI : https://github.com/Kajal8kumari
+KAJAL KUMARI : [Kajal8kumari](https://github.com/Kajal8kumari)
 
-CONTRIBUTORS : https://github.com/Kajal8kumari/Image-caption-generator/blob/main/CONTRIBUTORS.md
+CO AUTHORS : [Contributors](https://github.com/Kajal8kumari/Image-caption-generator/blob/main/CONTRIBUTORS.md)
 
