@@ -31,6 +31,5 @@ https://drive.google.com/file/d/1qcRy3WpQv4dGtu65gETtYLWxDPBrRtx1/view
 AUTHOR :
 KAJAL KUMARI : https://github.com/Kajal8kumari
 
-
-
+CONTRIBUTORS : https://github.com/Kajal8kumari/Image-caption-generator/blob/main/CONTRIBUTORS.md
 
