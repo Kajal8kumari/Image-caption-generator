@@ -31,14 +31,6 @@ https://drive.google.com/file/d/1qcRy3WpQv4dGtu65gETtYLWxDPBrRtx1/view
 AUTHOR :
 KAJAL KUMARI : https://github.com/Kajal8kumari
 
-CO-AUTHORS :
-AADYA ADISHREE : 
-`                 
-SHIVANI SINGH :
-D. SUBODH :
-ANUPAM PUJARI :
-JYOTI PATRA :
-
 
 
 
